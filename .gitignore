@@ -1,0 +1,12 @@
+#images
+*.png
+*.jpg
+
+#videos
+*.mp4
+
+#packages
+
+#password
+password.txt
+
