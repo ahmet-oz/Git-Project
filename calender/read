@@ -1,2 +1,2 @@
 When Shell1.sh file is run, actuall calender is written on Therminal if it is entered true with the username and password
-For this Shell2.sh is called into Shell1.sh. It contain order 'cal'
+For this Shell2.sh is called into Shell1.sh. It contain command 'cal'
